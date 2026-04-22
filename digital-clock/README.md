@@ -27,7 +27,6 @@ No additional dependencies or build steps are required.
 
 ![Digital Clock Screenshot](Screenshot.png)
 
-> *Replace the above URL with an actual screenshot if available.*
 
 ---
 
