@@ -10,7 +10,7 @@ Welcome to the **JavaScript Projects** repository! This folder contains a collec
 | **Drag and Drop** | Interactive drag‑and‑drop demo with customizable items and drop zones. | [README](./drag-drop/README.md) |
 | **Tic Tac Toe** | Classic two‑player Tic‑Tac‑Toe game with win detection and reset functionality. | [README](./tic-tac-toe/README.md) |
 | **Digital Clock** | Digital Clock with Gradient color UI. | [README](./digital-clock/README.md) |
-| **Calculator** | Calculaot with basic arithmetic operations. | [README](./calculator/README.md) |
+| **Calculator** | Calculator with basic arithmetic operations. | [README](./calculator/README.md) |
 
 
 ## How to Explore
