@@ -11,6 +11,7 @@ Welcome to the **JavaScript Projects** repository! This folder contains a collec
 | **Tic Tac Toe** | Classic two‑player Tic‑Tac‑Toe game with win detection and reset functionality. | [README](./tic-tac-toe/README.md) |
 | **Digital Clock** | Digital Clock with Gradient color UI. | [README](./digital-clock/README.md) |
 | **Calculator** | Calculator with basic arithmetic operations. | [README](./calculator/README.md) |
+| **Hide and Show Password** | Show and hide the password if you click on the icon | [README](./hide-show-password/README.md)
 
 
 ## How to Explore
