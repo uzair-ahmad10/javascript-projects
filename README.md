@@ -12,6 +12,7 @@ Welcome to the **JavaScript Projects** repository! This folder contains a collec
 | **Digital Clock** | Digital Clock with Gradient color UI. | [README](./digital-clock/README.md) |
 | **Calculator** | Calculator with basic arithmetic operations. | [README](./calculator/README.md) |
 | **Hide and Show Password** | Show and hide the password if you click on the icon | [README](./hide-show-password/README.md)
+| **QR Code Generator** | Generate the QR code | [README](.qr-code-generator/README.md)
 
 
 ## How to Explore
