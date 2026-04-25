@@ -20,7 +20,7 @@ A simple web-based QR code generator built with vanilla JavaScript, HTML, and CS
 ## 📦 Installation & Development
 1. **Clone the repository**
    ```bash
-   git clone <repo-url>
+   git clone <https://github.com/uzair-ahmad10/javascript-projects>
    cd qr-code-generator
    ```
 2. **Open `index.html`** in any modern browser (no server required).
