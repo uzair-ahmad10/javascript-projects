@@ -13,6 +13,7 @@ Welcome to the **JavaScript Projects** repository! This folder contains a collec
 | **Calculator** | Calculator with basic arithmetic operations. | [README](./calculator/README.md) |
 | **Hide and Show Password** | Show and hide the password if you click on the icon | [README](./hide-show-password/README.md)
 | **QR Code Generator** | Generate the QR code | [README](./qr-code-generator/readme.md)
+| **Quiz App** | Basic Multiple choice Questions App | [README](./quiz-app/README.md)
 
 
 ## How to Explore
